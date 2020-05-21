@@ -4,7 +4,7 @@ url='https://wiki.ros.org/image_geometry'
 pkgname='ros-melodic-image-geometry'
 pkgver='1.13.0'
 arch=('any')
-pkgrel='3'
+pkgrel='4'
 license=('BSD')
 
 ros_makedepends=(
